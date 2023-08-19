@@ -18,7 +18,7 @@
 
   
 ## 대회 소개
-목적 : 미래차 자율주행 SW관련 교육, 실습, 경진대회를 통해 취업시장에서 요구되는 학부생들의 SW 기술 역량 강화 및 산업 홍보 도모<br /><br /><br/><br/><br/><br/>  
+목적 : 미래차 자율주행 SW관련 교육, 실습, 경진대회를 통해 취업시장에서 요구되는 학부생들의 SW 기술 역량 강화 및 산업 홍보 도모<br />
 
 ## 대회 개요(타임어택 주행, 미션(장애물, 신호등, 주차) 주행)
 * 타임어택 주행
@@ -26,14 +26,14 @@
 * 미션(장애물, 신호등, 주차) 주행
   - 주행 경로에 있는 장애물 차량을 회피하며 주행을 해야함.
   - 신호등의 신호(적색 신호, 녹색 신호)에 따라 정지 및 출발을 해야함.
-  - 주차 구역에 주차된 차량을 피해 주어진 주차 공간에 주차를 해야함.<br/>
+  - 주차 구역에 주차된 차량을 피해 주어진 주차 공간에 주차를 해야함.<br />
                   
 ## 시작 가이드
 ### 개발환경 및 사용언어, 사용툴
 * 운영체제 : Ubuntu20.04  
 * Ros noetic 사용
   
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br/> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br /> 
 
 ## 동작 영상
 ### 전체 시나리오에 따른 동작 영상
