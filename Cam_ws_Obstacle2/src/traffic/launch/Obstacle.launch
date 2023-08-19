@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+<!-- Sensor -->
+<include file="$(find lo_camera)/launch/lo_camera.launch" />
+
+<!-- Lane Bag File -->
+<node pkg="rosbag" type="play" name="rosbag" args="-l $(find main)/test.bag"/>
+
+<!-- main -->
+<node pkg="Traffic" type="traffic_main.py" name="main" output="screen"/>
+</launch>
+
+
