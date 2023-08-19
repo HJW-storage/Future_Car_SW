@@ -1,0 +1,11 @@
+scan_filter_chain:
+- name: range
+  type: laser_filters/LaserScanRangeFilter
+  params:
+    use_message_range_limits: false
+    lower_threshold: 0.10
+    # upper_threshold: 0.50 # 원래 기존거.
+    upper_threshold: 0.10  # 라이다 감지 거리. 주행할 때 라이다가 뭔가 너무 민감한거 같아서 그냥 확 낮춰버림. 이렇게 낮은 값을 주면 감지기능은 거의 상실임.
+    lower_replacement_value: -.inf
+    upper_replacement_value: .inf
+    
