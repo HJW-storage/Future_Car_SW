@@ -12,9 +12,6 @@
     <td align="center"><a href="https://github.com/HJW-storage"><img src="https://user-images.githubusercontent.com/103934004/229440749-5e448f84-ee88-48d5-8d2e-22881c1d4baf.jpeg" width="100px;" alt=""/><br /><sub><b>Hong Ji Whan</b></sub></a><br /></td>
   </tr>
 </table>
-<!-- ![RC_CAR body](https://user-images.githubusercontent.com/113449410/231169656-a39c019c-36e5-48e5-b870-96224d49c9e3.jpg) -->
-
-<!-- ### 이미지 사이즈 조절 -->
 
 ## 대회 소개
 목적 : 미래차 자율주행 SW관련 교육, 실습, 경진대회를 통해 취업시장에서 요구되는 학부생들의 SW 기술 역량 강화 및 산업 홍보 도모
@@ -32,7 +29,7 @@
 ### For building and running the project you need:
 * 운영체제 : Ubuntu20.04  
 * Ros noetic 사용
-<img src=["https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg"](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) width="700" height="370">
+<img src="[https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg"](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)width="700" height="370">
 
 ## 동작 영상
 ### 전체 시나리오에 따른 동작 영상
