@@ -11,7 +11,7 @@
   </tr>
     <td align="center"><a href="https://github.com/HJW-storage"><img src="https://user-images.githubusercontent.com/103934004/229440749-5e448f84-ee88-48d5-8d2e-22881c1d4baf.jpeg" width="100px;" alt=""/><br /><sub><b>Hong Ji Whan</b></sub></a><br /></td>
   </tr>
-  ![KakaoTalk_20230819_234751502](https://github.com/HJW-storage/Future_Car_SW/assets/113449410/b4a24660-428a-4e2f-b5b1-f7e05f0b19fa)
+  <img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/b4a24660-428a-4e2f-b5b1-f7e05f0b19fa">
 </table>
 
 ## 대회 소개
