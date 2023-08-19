@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /><br /><br /> 
 
 ## 참가 차량 및 경기장
-<img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/68344437-2bdc-498e-9b0d-734d762b1cfa" width="360" height="360"> <img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/8c57adf3-0923-4d57-8e9d-c52727e0b030" width="360" height="360">
+<img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/68344437-2bdc-498e-9b0d-734d762b1cfa" width="390" height="360"> <img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/8c57adf3-0923-4d57-8e9d-c52727e0b030" width="390" height="360">
 
 ## 코드 정리 및 이슈 관리
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
