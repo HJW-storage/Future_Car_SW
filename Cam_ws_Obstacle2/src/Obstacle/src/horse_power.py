@@ -121,10 +121,13 @@ class HP:
             self.obstacle_detector.fsm.transition(False)
 
             # making jiwhan
-            # ----------------------- 해당 부분은 횡단보도에서 정지하고 5초 뒤에 출발하는 야매 코드. -----------------------
-            self.stop_line_flag = self.stop_line.process(self.sensor.cam)
-            if self.stop_line_falg == True:
-                self.motor_msg.drive.speed = 0
+            # ----------------------- 해당 부분은 횡단보도에서 정지하고 5초 뒤에 출발하는 코드. -----------------------
+            if self.obstacle_detector.fsm.obstacle_count == 3:
+                self.stop_line_flag = self.stop_line.process(self.sensor.cam)
+                
+            # 차량 2대 지나가고 부터 정지선 검출하게 함. 그 전부터 정지선 검출 프로세스 까지 실행되면 영상처리가 너무 많아지기에, 장애물 이후에 실행하려함.
+            if self.obstacle_detector.fsm.obstacle_count == 3 and self.stop_line_falg == True:
+                self.motor_msg.drive.speed = 0  # 모터 정지.
                 self.motor_msg.drive.steering_angle = 0
                 self.motor_pub.publish(self.motor_msg) #if 문 안에넣기 또는 밖에넣기 골라야함
 
@@ -159,8 +162,8 @@ class HP:
                 #     time.sleep(5)
 
 
-                self.motor_msg.drive.speed = 50
-                self.motor_pub.publish(self.motor_msg) #if 문 안에넣기 또는 밖에넣기 골라야함
+                self.motor_msg.drive.speed = 20 # 출발. 
+                self.motor_pub.publish(self.motor_msg)
 
                 self.rate.sleep()
                 time.sleep(5)
