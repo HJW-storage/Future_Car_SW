@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+
+<include file="$(find lo_camera)/launch/lo_camera.launch" />
+
+<node pkg="Park_pa" type="Parking.py" name="Park" output="screen"/>
+
+</launch>
