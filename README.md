@@ -29,7 +29,7 @@
 ### For building and running the project you need:
 * 운영체제 : Ubuntu20.04  
 * Ros noetic 사용
-<img src="[https://user-images.githubusercontent.com/31477658/85016059-f962aa80-b1a3-11ea-8c91-dacba2666b78.jpeg"](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)width="700" height="370">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
 
 ## 동작 영상
 ### 전체 시나리오에 따른 동작 영상
