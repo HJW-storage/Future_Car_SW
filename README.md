@@ -27,7 +27,7 @@
   - 주행 경로에 있는 장애물 차량을 회피하며 주행을 해야함.
   - 신호등의 신호(적색 신호, 녹색 신호)에 따라 정지 및 출발을 해야함.
   - 주차 구역에 주차된 차량을 피해 주어진 주차 공간에 주차를 해야함.
-  - 대회 영상 : https://youtu.be/LLFzBouImis?feature=shared<br /><br />
+  - 대회 영상 : [https://youtu.be/LLFzBouImis?feature=shared](https://youtu.be/j2pN6ueXkWY?si=7DHox5Gl110nAbIk)<br /><br />
 
 
 ## 시작 가이드
