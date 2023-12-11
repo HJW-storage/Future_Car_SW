@@ -12,8 +12,8 @@
     <td align="center"><a href="https://github.com/HJW-storage"><img src="https://user-images.githubusercontent.com/103934004/229440749-5e448f84-ee88-48d5-8d2e-22881c1d4baf.jpeg" width="100px;" alt=""/><br /><sub><b>Hong Ji Whan</b></sub></a><br /></td>
   -->
   </tr>
-  <img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/b4a24660-428a-4e2f-b5b1-f7e05f0b19fa" width = "360" height="360">
-  <img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/954761a6-273d-4107-a7c8-34d0edd24392" width = "360" height="360">
+  <img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/b4a24660-428a-4e2f-b5b1-f7e05f0b19fa" width = "400" height="400">
+  <img src="https://github.com/HJW-storage/Future_Car_SW/assets/113449410/954761a6-273d-4107-a7c8-34d0edd24392" width = "400" height="400">
   https://www.tukorea.ac.kr/tukorea/1050/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGdHVrb3JlYSUyRjEwOCUyRjQ4MzU5JTJGYXJ0Y2xWaWV3LmRvJTNG
 </table>
 
